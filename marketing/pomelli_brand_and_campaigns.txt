@@ -1,0 +1,54 @@
+==============================================================================
+         GOOGLE POMELLI - BUSINESS DNA & BRAND PROMPT SUITE
+                  BRAND: PEARL WINDOW SYSTEMS
+==============================================================================
+
+Google Pomelli relies on your "Business DNA" profile to auto-generate 
+brand-consistent social media posts, posters, and product photoshoots.
+
+------------------------------------------------------------------------------
+PART 1: GOOGLE POMELLI BUSINESS DNA INPUTS
+------------------------------------------------------------------------------
+Copy & Paste these core details into your Pomelli Brand Profile:
+
+• Business Name: Pearl Window Systems
+• Industry: Premium Architectural Doors & Windows (uPVC & Aluminum)
+• Brand Tone of Voice: Sophisticated, Protective, Authoritative, Modern, Reassuring
+• Core Value Proposition: 100% Leak-Proof, Soundproof (80% Noise Cancellation), Energy Saving (30% AC retention), European German Hardware Security.
+• Primary Target Audience: Homeowners building/renovating villas, Architects, Interior Designers, Real Estate Developers in Pakistan (Lahore, Islamabad, Rawalpindi, Karachi).
+
+BRAND COLOR PALETTE:
+- Dominant: Obsidian Black (#0F172A) & Slate Grey (#1E293B)
+- Accent 1: Pearl Gold (#D4AF37)
+- Accent 2: Rain Sky Blue (#0EA5E9)
+- Neutral: Pure Clean White (#FFFFFF)
+
+BRAND TYPOGRAPHY:
+- Primary Header: Inter / Outfit (Bold, Modern Architectural Sans-Serif)
+- Body Copy: Roboto / Inter (Clean, High Readability)
+
+------------------------------------------------------------------------------
+PART 2: POMELLI "PHOTOSHOOT" PRODUCT SCENE GENERATION PROMPTS
+------------------------------------------------------------------------------
+Use these text prompts in Pomelli's "Photoshoot" tool to transform raw window/door product photos into luxury architectural render posters.
+
+PROMPT 1: MONSOON RAIN LEAK-PROOF POSTER
+"Luxury modern Pakistani villa exterior during a heavy monsoon rainstorm. A sleek, black Pearl uPVC double-glazed sliding window profile in razor-sharp focus. Water droplets sliding smoothly off hydrophobic glass. Zero water penetration. Warm cozy golden interior light shining from inside the room. Professional architectural photography, 8k resolution, cinematic lighting, editorial ad layout."
+
+PROMPT 2: SOUNDPROOF BEDROOM TRANQUILITY
+"Minimalist luxury master bedroom overlooking a rainy city garden through floor-to-ceiling Pearl slimline black aluminum patio doors. Ultra-clean aesthetics, serene atmosphere, soft natural diffused rainy daylight, high-end interior design, architectural digest magazine quality, premium branding aesthetic."
+
+PROMPT 3: GOLDEN OAK WOOD FINISH PROFILE DISPLAY
+"Close-up detail shot of Pearl Golden Oak wood-grain finish uPVC window frame with precision German multi-point stainless steel lock mechanism. Elegant contrast, studio lighting, premium craftsmanship, product showcase, crisp details."
+
+------------------------------------------------------------------------------
+PART 3: POMELLI SOCIAL MEDIA POST & AD PROMPTS
+------------------------------------------------------------------------------
+Paste these prompts into Pomelli to generate complete Instagram/Facebook/TikTok ad posters with on-brand headlines & captions:
+
+POSTER PROMPT 1 (MONSOON SPECIAL):
+"Create a high-converting promotional graphic for Pearl Window Systems with headline 'BARSAT SE PEHLE GHAR KO LEAK-PROOF BANAAYEIN!'. Include key badges for 100% Water-Proof, 80% Soundproof, and Free Site Measurement offer. Modern dark tech aesthetic with gold accents."
+
+POSTER PROMPT 2 (BEFORE & AFTER SEELAN PREVENTION):
+"Create an educational social media graphic comparing old rusted window frames vs Pearl uPVC profiles. Highlight prevention of wall dampness, paint peeling, and rain seepage. Professional, trustworthy tone."
+==============================================================================

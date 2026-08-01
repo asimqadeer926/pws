@@ -1,0 +1,61 @@
+==============================================================================
+          GOOGLE FLOW - CINEMATIC VIDEO GENERATION PROMPTS (TIKTOK / ADS)
+                  BRAND: PEARL WINDOW SYSTEMS
+==============================================================================
+
+Google Flow generates multi-shot cinematic video sequences. Use these structured 
+camera, scene, and movement prompts directly in Google Flow for high-converting TikTok/Reels ads.
+
+------------------------------------------------------------------------------
+VIDEO CONCEPT 1: "MONSOON STORM VS INNER SILENCE" (HERO TIKTOK AD)
+------------------------------------------------------------------------------
+STYLE: Cinematic, photorealistic, 4K, 60fps, architectural advertisement.
+
+SHOT 1 (HOOK - DURATION: 3 SECONDS)
+- Camera: Extreme close-up macro lens (85mm, f/1.4), slow pan across rain-beaten window pane.
+- Visual: Heavy monsoon rain pouring down, water droplets hitting high-grade glass. High contrast rainy weather.
+- Sound Prompt: Heavy rain pouring, thunder rumble (100% volume).
+- Text Prompt: "Heavy rain pouring against double-glazed window glass in slow motion, macro detail, cinematic lighting."
+
+SHOT 2 (ACTION - DURATION: 4 SECONDS)
+- Camera: Medium shot, steady camera movement pushing in toward the window handle.
+- Visual: A hand effortlessly rotates a sleek German multi-point locking handle on a Pearl black uPVC profile window. Solid mechanical locking movement.
+- Sound Prompt: Crisp metallic click sound of multipoint lock engaging.
+- Text Prompt: "Close up of hand closing black uPVC window handle, precision German lock mechanism engaging smoothly."
+
+SHOT 3 (RESOLUTION - DURATION: 4 SECONDS)
+- Camera: Wide camera pull-back showing a serene luxury bedroom interior.
+- Visual: The moment the window locks, rain sound drops to zero. Warm interior ambient lighting. A person enjoying tea looking out at the rain outside in complete peace.
+- Sound Prompt: Absolute silence, soft gentle acoustic piano ambient note.
+- Text Prompt: "Wide shot luxury interior bedroom, peaceful ambiance, rain outside glass, zero sound inside, architectural magazine style."
+
+------------------------------------------------------------------------------
+VIDEO CONCEPT 2: "WATER HOSE PRESSURE LEAK TEST" (PROOF OF QUALITY)
+------------------------------------------------------------------------------
+STYLE: Industrial laboratory / Site inspection proof video.
+
+SHOT 1 (PRESSURE SPRAY)
+- Camera: 35mm lens, dynamic side angle, 120fps ultra slow motion.
+- Visual: High pressure water jet from a hose spraying directly at the joint of a Pearl uPVC sliding window frame.
+- Text Prompt: "High pressure water jet spraying against uPVC window frame in ultra slow motion, water splashing off watertight rubber gasket seals."
+
+SHOT 2 (INSIDE DRY TEST)
+- Camera: Interior POV angle tracking along the inside window frame sill.
+- Visual: A dry white tissue paper being wiped along the inner window track – tissue remains 100% bone dry.
+- Text Prompt: "Hand wiping white tissue paper along clean inside window frame, tissue remains completely dry, flawless sealing."
+
+------------------------------------------------------------------------------
+VIDEO CONCEPT 3: "BEFORE & AFTER HOME ELEVATION TRANSFORMATION"
+------------------------------------------------------------------------------
+STYLE: Fast-paced TikTok remodeling transition.
+
+SHOT 1 (BEFORE)
+- Camera: Handheld camera movement, slightly desaturated color profile.
+- Visual: Old rusted brown iron window frame with chipped paint on a residential wall.
+- Text Prompt: "Old rusted iron window frame with worn out paint on brick wall, vintage 1990s house elevation."
+
+SHOT 2 (TRANSITION & AFTER)
+- Camera: Whip pan transition to a smooth, locked tripod tracking shot.
+- Visual: Modern floor-to-ceiling Pearl Slimline Black Aluminum Sliding Patio Doors opening into a lush green garden after rain.
+- Text Prompt: "Modern luxury villa floor to ceiling black aluminum glass sliding doors, opening to green garden, high end architectural lighting."
+==============================================================================
